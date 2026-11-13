@@ -5,7 +5,7 @@ A Facebook-inspired login page UI built using **HTML5 and Tailwind CSS**, featur
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshot%202026-11-14%20033931.png" width="48%" alt="Facebook Login Page Screenshot 1">
+  <img src="[screenshot%202026-11-14%20033931.png](https://github.com/shilpi170107/Facebook-Clone/blob/main/Screenshot%202026-11-14%20033931.png)" width="48%" alt="Facebook Login Page Screenshot 1">
   <img src="screenshot%202026-11-14%20033939.png" width="48%" alt="Facebook Login Page Screenshot 2">
 </p>
 
